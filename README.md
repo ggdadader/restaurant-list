@@ -10,20 +10,26 @@ Website theme: restaurant review site.
 2. Users can click each restaurants for more info.
 3. Users can filter out the restaurants by keywords of name or categories.
 
-</br>
+
 ## Installation and Execution
 
 Clone the project
 ```
-git clone https://ggdadader.github.io/restaurant-list.git
+git clone https://github.com/ggdadader/restaurant-list.git
+```
 ```
 Run the following code on your command line
+```
+```
+cd restaurant-list
+```
 ```
 npm install
 ```
 ```
 npm run dev
 ```
+
 Open your browser and type in the following address
 ```
 http://localhost:3000/
